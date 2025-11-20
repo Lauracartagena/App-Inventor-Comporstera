@@ -36,7 +36,7 @@ La aplicación incluye:
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/tu-usuario/proyecto-compostera-escolar.git
+git clone https://github.com/Lauracartagena/proyecto-compostera-escolar.git
 ```
 
 2. Abre el proyecto en Android Studio
@@ -96,7 +96,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 ## 👥 Autores
 
-* **Tu Nombre** - *Desarrollo inicial* - [tu-usuario](https://github.com/tu-usuario)
+* **Laura cartagena** - *Desarrollo inicial* - [Lauracartagena](https://github.com/Lauracartagena)
 
 ## 🙏 Agradecimientos
 
